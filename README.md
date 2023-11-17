@@ -7,3 +7,5 @@ ideas to blog about
 - sqlx recipes
 
 - 20K LOC in rust. all the stupid things I'd done and lessons learned.
+
+- combining new-type idiom with serde_json to ergonomically get compile-time guarantees.
